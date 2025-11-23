@@ -1,0 +1,5 @@
+{
+  "name": "yt-dlp Evrensel İndirici",
+  "description": "YouTube, Instagram, TikTok, Twitch ve daha fazlası için gelişmiş yt-dlp komut oluşturucu (Statik Versiyon).",
+  "requestFramePermissions": []
+}
